@@ -1,0 +1,23 @@
+p {
+  color: #522575;
+}
+h1 {
+  color: purple;
+}
+div {
+  font-family: Helvetica;
+  background-color: #bec9fc;
+  padding:30px;
+  text-align: center;
+  width: 50%;
+  margin-left: 23%;
+}
+a {
+  color: #522575;
+}
+.mytext {
+  color:red;
+}
+.purple {
+  background-color: purple;
+}
